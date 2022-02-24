@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Areyan</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+Heya! I'm Areyan Naaman, a full-stack developer currently living in Erbil, Kurdistan. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
