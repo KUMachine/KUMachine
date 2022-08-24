@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Web projects<br>🌱 I’m currently learning Rust :) as a hobby<br>👯 I’m looking to collaborate on Web, and UX/UI project<br>💬 Ask me about react, typescript, and any other web related topics
+# Me Who:
+🔭 I’m currently working on Web projects using Reactjs and Typescript<br>🌱 I’m currently learning Rust :) as a hobby<br>👯 I’m looking to collaborate on Web, and UX/UI project<br>💬 Ask me about react, typescript, and any other web related topics
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KUMachine&icon=0&color=10)](https://visitcount.itsvg.in)
