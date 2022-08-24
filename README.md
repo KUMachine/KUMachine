@@ -12,6 +12,7 @@
 - 💬 Ask me about **react, typescript, and any other web related topics**
 
 <h3 align="left">Connect with me:</h3>
+areyan.naaman@dit.gov.krd
 <p align="left">
 </p>
 
