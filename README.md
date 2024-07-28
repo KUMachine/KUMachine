@@ -1,4 +1,4 @@
-# Me Who:
+# WhoAmI:
 🔭 I’m currently working on Web projects using Reactjs and Typescript<br>🌱 I’m currently learning Figma :) as a hobby<br>👯 I’m looking to collaborate on Web, and UX/UI project<br>💬 Ask me about react, typescript, and any other web related topics
 
 
